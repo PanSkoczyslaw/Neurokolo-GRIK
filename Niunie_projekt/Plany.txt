@@ -3,12 +3,12 @@
 
 2. ChatGPT connected: “Rymowanie” tekstu. Robienie z niego wiersza/czegoś melodycznego. Chat GPT: 
 	Np. ułóż mi rymowankę/wiersz/piosenkę z tego tekstu. 
-	Słowa kluczowe w historyjce. Filtr, który grupuje tematycznie listę informacji w tabeli.
+	Słowa kluczowe w historyjce. Filtr, który grupuje tematycznie listę informacji w tabeli. - Gosia Gabrysia Sylwia
 
 3. Na długości tekstu pojawia się linia/strzałka rysująca znak zapytania, nie porusza się przy scrollowaniu. 
 	Użytkownik ma wodzić wzrokiem wzdłuż znaku zapytania - taki gloss over. 
 
-4. Akronimy z comprehensive zdaniem, najlepiej zdania z uzyciem osob, np znane moja wiecznie zapracowana mama jutro sama usmazy nalesniki
+4. Akronimy z comprehensive zdaniem, najlepiej zdania z uzyciem osob, np znane moja wiecznie zapracowana mama jutro sama usmazy nalesniki - Ola Natalia
 
 5. Pokazuje każdą linijkę osobno po kolei w ustalonym przez użytkownika odstępnie czasu
 
