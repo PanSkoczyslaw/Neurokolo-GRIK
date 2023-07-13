@@ -12,4 +12,4 @@
 
 5. Pokazuje każdą linijkę osobno po kolei w ustalonym przez użytkownika odstępnie czasu
 
-6. Samozapleniajaca sie wraz ze scrollowaniem krecha oznaczajaca ile tekstu sie juz przecxytalo na gorze, srodek motywacji
+6. Samozapleniajaca sie wraz ze scrollowaniem krecha oznaczajaca ile tekstu sie juz przecxytalo na gorze, srodek motywacji - Wadim
